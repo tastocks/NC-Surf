@@ -6,4 +6,4 @@ Extension for Google Chrome Web Browser
 # Ensure only files ending with .js, .html, or .png are in directory
 # Open Chrome and navigate to the Extensions page (chrome://extensions)
 # Select 'Load unpacked extension' and select the new directory
-# If you want to use this extension within Incognito, select 'Allow in incognito'
+# If you want to use this extension within Incognito, select 'Allow in incognito'.
